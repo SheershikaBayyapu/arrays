@@ -1,3 +1,5 @@
+//1. using set
+//2.using two pointers
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
